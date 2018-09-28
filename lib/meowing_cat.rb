@@ -1,3 +1,3 @@
-## code your solution here. 
-def Cat 
+## code your solution here.
+def Cat
 end
