@@ -1,5 +1,3 @@
 ## code your solution here.
-def Cat
-  def initialize 
-  end
+class Cat 
 end
